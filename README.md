@@ -22,3 +22,4 @@
 - Suelo escribir en mi diario personal ideas y cosas que me inspiran.
 - Me interesa aprender sobre desarrollo web, UI/UX y buenas prácticas de código.
 
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
